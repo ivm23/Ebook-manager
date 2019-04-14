@@ -12,7 +12,7 @@ public class BookSearcher {
     public static void main(String[] args)
     {
         System.out.println("Введите поисковый запрос" );
-        Scanner scanner = new Scanner(System. in);
+       /* Scanner scanner = new Scanner(System. in);
         String query = scanner. nextLine();
         String text = query.split(" ")[0];
 
@@ -55,6 +55,6 @@ public class BookSearcher {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+*/
     }
 }
